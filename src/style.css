@@ -3,3 +3,8 @@
 body{
     background: white;
 }
+
+.vertical {
+    position: absolute;
+    top: 35%;
+}
